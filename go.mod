@@ -1,4 +1,4 @@
-module gorocksdb
+module github.com/spking11/gorocksdb
 
 go 1.15
 
